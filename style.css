@@ -1,0 +1,13 @@
+ul {
+	list-style-type: none;
+	font-size: 2em;
+}
+
+button {
+	font-size: 1em;
+}
+
+.alert {
+	display: block;
+	width: 100%;
+}
